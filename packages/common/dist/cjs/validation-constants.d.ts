@@ -1,0 +1,17 @@
+export declare const STR_MAX_LENGTH = 40;
+export declare const STR_MIN_LENGTH = 3;
+export declare const STR_MAX_LENGTH_MEDIUM = 120;
+export declare const STR_MIN_LENGTH_MEDIUM = 3;
+export declare const STR_MAX_LENGTH_LONG = 255;
+export declare const STR_MIN_LENGTH_LONG = 3;
+export declare const EVENT_MIN_SLOTS = 1;
+export declare const EVENT_MAX_SLOTS = 100;
+export declare const QUIZ_MIN_QUESTIONS_ATTEMPT = 5;
+export declare const QUIZ_MAX_QUESTIONS_ATTEMPT = 20;
+export declare const PASSWORD_REGEX: RegExp;
+export declare const VALID_FILESYSTEM_MIMETYPES: string[];
+export declare const MAX_FILESYSTEM_FILE_SIZE = 104857600;
+export declare const MAX_PROFILEPIC_FILE_SIZE = 10485760;
+export declare const VALID_PROFILEPIC_MIMETYPES: string[];
+export declare const MAX_QUIZ_FILE_SIZE = 10485760;
+export declare const VALID_QUIZ_MIMETYPES: string[];
